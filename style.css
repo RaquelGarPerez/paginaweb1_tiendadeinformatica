@@ -1,0 +1,52 @@
+
+footer{
+
+    background-color: rgb(18, 9, 139);
+    padding: 100px;
+    margin-top: 200px;
+
+
+}
+
+.img2{
+    width: 50%;
+    margin-top: 300px;
+    float: left;
+
+
+}
+
+.img3{
+    float: right;
+    margin-top: -250px;
+
+
+}
+
+.gif-tienda{
+    width: 100%;
+    max-width: 18rem;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+.redes{
+   text-align: center;
+
+
+
+}
+.face{
+    color: blue;
+}
+
+.youtube{
+    color:red;
+}
+
+.instagram{
+    color: yellow;
+}
