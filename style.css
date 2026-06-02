@@ -36,9 +36,12 @@ footer{
 .redes{
    text-align: center;
 
-
-
 }
+
+.titulo-redes {
+    color: #e6f0ff;
+}
+
 .face{
     color: blue;
 }
